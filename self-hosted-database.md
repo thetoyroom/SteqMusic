@@ -186,9 +186,9 @@ Simply copy your PocketBase domain from Cloudflare (e.g., `https://db.yourdomain
 ---
 
 ## Step 5: Linking with SteqMusic
-    
+
 Now configure SteqMusic to use your custom backend:
-    
+
 1. Open SteqMusic in your browser
 2. Go to **Settings** (gear icon)
 3. Click **ADVANCED: Custom Account Database**

@@ -8,8 +8,8 @@ This document lists public instances of SteqMusic that you can use. Instances ar
 
 The official SteqMusic instance maintained by the core team:
 
-| URL                                                    | Status   | Notes            |
-| ------------------------------------------------------ | -------- | ---------------- |
+| URL                                                  | Status   | Notes            |
+| ---------------------------------------------------- | -------- | ---------------- |
 | [steqmusic.tf](https://steqmusic.tf)                 | Official | Primary instance |
 | [steqmusic.samidy.com](https://steqmusic.samidy.com) | Official | Secondary mirror |
 
@@ -35,21 +35,21 @@ SteqMusic uses the Hi-Fi API under the hood. These are available API endpoints t
 
 ### Official & Community APIs
 
-| Provider          | URL                                 | Notes                                                      |
-| ----------------- | ----------------------------------- | ---------------------------------------------------------- |
-| **SteqMusic**     | `https://steqmusic-api.samidy.com`  | Official API - [See Note](https://rentry.co/steqmusicapi)  |
-|                   | `https://api.steqmusic.tf`          | Official API                                               |
-|                   | `https://arran.steqmusic.tf`        | Official API                                               |
-| **squid.wtf**     | `https://triton.squid.wtf`          | Community hosted                                           |
-| **Lucida (QQDL)** | `https://wolf.qqdl.site`            | Community hosted                                           |
-|                   | `https://maus.qqdl.site`            | Community hosted                                           |
-|                   | `https://vogel.qqdl.site`           | Community hosted                                           |
-|                   | `https://katze.qqdl.site`           | Community hosted                                           |
-|                   | `https://hund.qqdl.site`            | Community hosted                                           |
-| **Spotisaver**    | `https://hifi-one.spotisaver.net`   | Community hosted                                           |
-|                   | `https://hifi-two.spotisaver.net`   | Community hosted                                           |
-| **Kinoplus**      | `https://tidal.kinoplus.online`     | Community hosted                                           |
-| **Binimum**       | `https://tidal-api.binimum.org`     | Community hosted                                           |
+| Provider          | URL                                | Notes                                                     |
+| ----------------- | ---------------------------------- | --------------------------------------------------------- |
+| **SteqMusic**     | `https://steqmusic-api.samidy.com` | Official API - [See Note](https://rentry.co/steqmusicapi) |
+|                   | `https://api.steqmusic.tf`         | Official API                                              |
+|                   | `https://arran.steqmusic.tf`       | Official API                                              |
+| **squid.wtf**     | `https://triton.squid.wtf`         | Community hosted                                          |
+| **Lucida (QQDL)** | `https://wolf.qqdl.site`           | Community hosted                                          |
+|                   | `https://maus.qqdl.site`           | Community hosted                                          |
+|                   | `https://vogel.qqdl.site`          | Community hosted                                          |
+|                   | `https://katze.qqdl.site`          | Community hosted                                          |
+|                   | `https://hund.qqdl.site`           | Community hosted                                          |
+| **Spotisaver**    | `https://hifi-one.spotisaver.net`  | Community hosted                                          |
+|                   | `https://hifi-two.spotisaver.net`  | Community hosted                                          |
+| **Kinoplus**      | `https://tidal.kinoplus.online`    | Community hosted                                          |
+| **Binimum**       | `https://tidal-api.binimum.org`    | Community hosted                                          |
 
 ---
 

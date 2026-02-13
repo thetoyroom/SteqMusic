@@ -39,12 +39,12 @@ Visit `http://localhost:5173` (hot-reload enabled)
 
 Docker Compose [profiles](https://docs.docker.com/compose/how-tos/profiles/) control which services start. A service with no profile always runs. A service with a profile only runs when that profile is activated.
 
-| Command                                                   | What starts                          |
-| --------------------------------------------------------- | ------------------------------------ |
+| Command                                                   | What starts                         |
+| --------------------------------------------------------- | ----------------------------------- |
 | `docker compose up -d`                                    | SteqMusic                           |
-| `docker compose --profile pocketbase up -d`               | SteqMusic + PocketBase               |
-| `docker compose --profile dev up -d`                      | SteqMusic + Dev server               |
-| `docker compose --profile dev --profile pocketbase up -d` | SteqMusic + Dev server + PocketBase  |
+| `docker compose --profile pocketbase up -d`               | SteqMusic + PocketBase              |
+| `docker compose --profile dev up -d`                      | SteqMusic + Dev server              |
+| `docker compose --profile dev --profile pocketbase up -d` | SteqMusic + Dev server + PocketBase |
 
 In `docker-compose.yml`, it looks like this:
 

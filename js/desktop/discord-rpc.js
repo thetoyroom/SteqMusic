@@ -65,6 +65,6 @@ export function initializeDiscordRPC(player) {
                 smallImageKey: 'pause',
                 smallImageText: 'Paused',
             })
-            .catch(() => { });
+            .catch(() => {});
     }
 }

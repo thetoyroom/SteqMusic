@@ -224,15 +224,15 @@ export class MusicDatabase {
                 // Keep minimal album info
                 album: item.album
                     ? {
-                        id: item.album.id,
-                        title: item.album.title || null,
-                        cover: item.album.cover || null,
-                        releaseDate: item.album.releaseDate || null,
-                        vibrantColor: item.album.vibrantColor || null,
-                        artist: item.album.artist || null,
-                        numberOfTracks: item.album.numberOfTracks || null,
-                        mediaMetadata: item.album.mediaMetadata ? { tags: item.album.mediaMetadata.tags } : null,
-                    }
+                          id: item.album.id,
+                          title: item.album.title || null,
+                          cover: item.album.cover || null,
+                          releaseDate: item.album.releaseDate || null,
+                          vibrantColor: item.album.vibrantColor || null,
+                          artist: item.album.artist || null,
+                          numberOfTracks: item.album.numberOfTracks || null,
+                          mediaMetadata: item.album.mediaMetadata ? { tags: item.album.mediaMetadata.tags } : null,
+                      }
                     : null,
                 copyright: item.copyright || null,
                 isrc: item.isrc || null,
@@ -263,8 +263,8 @@ export class MusicDatabase {
                 artist: item.artist
                     ? { name: item.artist.name || null, id: item.artist.id }
                     : item.artists?.[0]
-                        ? { name: item.artists[0].name || null, id: item.artists[0].id }
-                        : null,
+                      ? { name: item.artists[0].name || null, id: item.artists[0].id }
+                      : null,
                 // Keep type and track count for UI labels
                 type: item.type || null,
                 numberOfTracks: item.numberOfTracks || null,
