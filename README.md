@@ -95,7 +95,6 @@
 
 Our Recommended way to use SteqMusic is through our official instance:
 
-
 For alternative instances, check [INSTANCES.md](INSTANCES.md).
 
 ---
