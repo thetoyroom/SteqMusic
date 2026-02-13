@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://steqmusic.samidy.com">
-    <img src="https://github.com/thetoyroom/SteqMusic/blob/main/public/assets/512.png?raw=true" alt="SteqMusic Logo" width="150px">
+    <img src="" alt="SteqMusic Logo" width="150px">
   </a>
 </p>
 
@@ -96,7 +95,6 @@
 
 Our Recommended way to use SteqMusic is through our official instance:
 
-**[steqmusic.samidy.com](https://steqmusic.samidy.com)**
 
 For alternative instances, check [INSTANCES.md](INSTANCES.md).
 
@@ -209,11 +207,9 @@ We welcome contributions from the community! Please see our [Contributing Guide]
 ---
 
 <p align="center">
-  <a href="https://fmhy.net/audio#streaming-sites">
-    <img src="https://raw.githubusercontent.com/thetoyroom/SteqMusic/refs/heads/main/public/assets/asseenonfmhy880x310.png" alt="As seen on FMHY" height="50">
   </a>
 </p>
 
 <p align="center">
-  Made with ❤️ by the SteqMusic team
+  Made with ❤️ by the SteqLabs team
 </p>
